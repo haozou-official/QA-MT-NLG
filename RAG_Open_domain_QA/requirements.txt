@@ -1,0 +1,7 @@
+transformers
+datasets
+faiss-cpu
+nltk>=3.6.0
+pytorch-lightning
+tqdm==4.43.0
+sacrebleu
